@@ -1,0 +1,15 @@
+.mouse-light {
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.3) 10%,
+    rgba(255, 255, 255, 0) 60%
+  );
+  pointer-events: none;
+  border-radius: 50%;
+  filter: blur(30px);
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s linear;
+}
