@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# React Example Web Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This project is a React-based example website designed to showcase modern web development techniques and responsive design. It serves as a template for building dynamic and interactive web applications.
 
-## Available Scripts
+## Features
+- Responsive design compatible with all devices
+- Modular and reusable React components
+- State management using React hooks
+- Integration with external APIs
+- User-friendly UI/UX design
 
-In the project directory, you can run:
+## Installation and Setup
+To run this project locally, follow these steps:
 
-### `npm start`
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/HasanGocer/React_Example_Web_Site.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd React_Example_Web_Site
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+    The application will be available at `http://localhost:3000`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+- React.js
+- React Router
+- Axios for API requests
+- Tailwind CSS for styling
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribution
+Contributions are welcome! If you want to contribute to this project, please follow these steps:
+- Fork the repository
+- Create a new branch (`git checkout -b feature/YourFeature`)
+- Commit your changes (`git commit -m 'Add some feature'`)
+- Push to the branch (`git push origin feature/YourFeature`)
+- Open a Pull Request
 
-### `npm test`
+## License
+This project is licensed under the MIT License.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contact
+For any inquiries, feel free to reach out to the project owner:
+- GitHub: [HasanGocer](https://github.com/HasanGocer)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# React Örnek Web Sitesi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Açıklama
+Bu proje, modern web geliştirme tekniklerini ve duyarlı tasarımı sergilemek için tasarlanmış React tabanlı bir örnek web sitesidir. Dinamik ve etkileşimli web uygulamaları oluşturmak için bir şablon görevi görür.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Özellikler
+- Tüm cihazlarla uyumlu duyarlı tasarım
+- Modüler ve tekrar kullanılabilir React bileşenleri
+- React hook'ları ile durum yönetimi
+- Harici API entegrasyonu
+- Kullanıcı dostu UI/UX tasarımı
 
-### `npm run eject`
+## Kurulum ve Çalıştırma
+Projeyi yerel ortamda çalıştırmak için şu adımları izleyin:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Depoyu klonlayın:
+    ```bash
+    git clone https://github.com/HasanGocer/React_Example_Web_Site.git
+    ```
+2. Proje dizinine gidin:
+    ```bash
+    cd React_Example_Web_Site
+    ```
+3. Bağımlılıkları yükleyin:
+    ```bash
+    npm install
+    ```
+4. Geliştirme sunucusunu başlatın:
+    ```bash
+    npm start
+    ```
+    Uygulama `http://localhost:3000` adresinde çalışacaktır.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Kullanılan Teknolojiler
+- React.js
+- React Router
+- Axios ile API talepleri
+- Tailwind CSS ile stil yönetimi
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Katkıda Bulunma
+Katkılarınızı bekliyoruz! Bu projeye katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
+- Depoyu çatallayın
+- Yeni bir dal oluşturun (`git checkout -b ozellik/YeniOzellik`)
+- Değişikliklerinizi kaydedin (`git commit -m 'Özellik eklendi'`)
+- Dalı yükleyin (`git push origin ozellik/YeniOzellik`)
+- Bir Çekme Talebi (Pull Request) açın
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## İletişim
+Herhangi bir sorunuz için proje sahibiyle iletişime geçebilirsiniz:
+- GitHub: [HasanGocer](https://github.com/HasanGocer)
