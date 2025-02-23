@@ -4,10 +4,8 @@
 This project is a React-based example website designed to showcase modern web development techniques and responsive design. It serves as a template for building dynamic and interactive web applications.
 
 ## Features
-- Responsive design compatible with all devices
 - Modular and reusable React components
 - State management using React hooks
-- Integration with external APIs
 - User-friendly UI/UX design
 
 ## Installation and Setup
@@ -34,7 +32,6 @@ To run this project locally, follow these steps:
 ## Technologies Used
 - React.js
 - React Router
-- Axios for API requests
 - Tailwind CSS for styling
 
 ## Contribution
@@ -60,10 +57,8 @@ For any inquiries, feel free to reach out to the project owner:
 Bu proje, modern web geliştirme tekniklerini ve duyarlı tasarımı sergilemek için tasarlanmış React tabanlı bir örnek web sitesidir. Dinamik ve etkileşimli web uygulamaları oluşturmak için bir şablon görevi görür.
 
 ## Özellikler
-- Tüm cihazlarla uyumlu duyarlı tasarım
 - Modüler ve tekrar kullanılabilir React bileşenleri
 - React hook'ları ile durum yönetimi
-- Harici API entegrasyonu
 - Kullanıcı dostu UI/UX tasarımı
 
 ## Kurulum ve Çalıştırma
@@ -90,7 +85,6 @@ Projeyi yerel ortamda çalıştırmak için şu adımları izleyin:
 ## Kullanılan Teknolojiler
 - React.js
 - React Router
-- Axios ile API talepleri
 - Tailwind CSS ile stil yönetimi
 
 ## Katkıda Bulunma
